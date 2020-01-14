@@ -1,2 +1,3 @@
-# flutter_projetcs
-Aprendendo a criar app's com flutter
+# flutter_projects
+
+Learning to create app's with flutter.
