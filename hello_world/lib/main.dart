@@ -8,7 +8,10 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(title: 'Welcome to Flutter', home: RandomWords());
+    return MaterialApp(
+        title: 'Welcome to Flutter',
+        theme: ThemeData(primaryColor: Colors.lightBlue),
+        home: RandomWords());
   }
 }
 
